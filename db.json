@@ -137,32 +137,38 @@
   "widget": [
     {
       "id": 1,
-      "w": 2,
-      "h": 2,
+      "w": 12,
+      "h": 3,
       "x": 0,
       "y": 0,
       "data": {
-        "id": "widget1"
+        "id": "widget1",
+        "type": "Line",
+        "label": "widget1"
       }
     },
     {
       "id": 2,
-      "w": 1,
-      "h": 1,
+      "w": 6,
+      "h": 2,
       "x": 0,
-      "y": 2,
+      "y": 3,
       "data": {
-        "id": "widget2"
+        "id": "widget2",
+        "type": "Bar",
+        "label": "widget2"
       }
     },
     {
       "id": 3,
-      "w": 1,
-      "h": 1,
-      "x": 2,
-      "y": 0,
+      "w": 6,
+      "h": 2,
+      "x": 6,
+      "y": 3,
       "data": {
-        "id": "widget3"
+        "id": "widget3",
+        "type": "Pie",
+        "label": "widget3"
       }
     }
   ]
