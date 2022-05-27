@@ -138,36 +138,30 @@
     {
       "id": 1,
       "w": 12,
-      "h": 3,
+      "h": 4,
       "x": 0,
       "y": 0,
       "data": {
-        "id": "widget1",
-        "type": "Line",
         "label": "코로나 감염 현황"
       }
     },
     {
       "id": 2,
-      "w": 5,
-      "h": 3,
+      "w": 7,
+      "h": 4,
       "x": 0,
-      "y": 3,
+      "y": 4,
       "data": {
-        "id": "widget2",
-        "type": "Bar",
-        "label": "widget2"
+        "label": "지역별 확진자 현황"
       }
     },
     {
       "id": 3,
-      "w": 7,
+      "w": 5,
       "h": 3,
-      "x": 5,
-      "y": 3,
+      "x": 7,
+      "y": 4,
       "data": {
-        "id": "widget3",
-        "type": "Pie",
         "label": "widget3"
       }
     }
